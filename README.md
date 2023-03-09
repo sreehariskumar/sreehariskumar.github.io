@@ -1,11 +1,10 @@
 # sreehariskumar.github.io
 
-Welcome to my website hosted on GitHub Pages! This website is built using HTML, CSS & JavaScript which showcases my portfolio of DevOps work.
+Welcome to my website hosted on GitHub Pages! This [website](https://1by2.online) is built using HTML, CSS & JavaScript which showcases my portfolio of DevOps work.
 
 _If you're seeking for the same thing, this [video](https://www.youtube.com/watch?v=OltY8JIaP-4) will walk you through the process._
 
-</br>
-</br>
+
 ### Advantages of hosting a website on GitHub Pages:
 **Free hosting**: GitHub Pages is free to use for public repositories, making it an affordable option for individuals and small businesses who don't want to pay for website hosting.
 
