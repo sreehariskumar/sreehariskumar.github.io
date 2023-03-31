@@ -8,7 +8,7 @@ _If you're seeking for the same thing, this [video](https://www.youtube.com/watc
 ### Advantages of hosting a website on GitHub Pages:
 **Free hosting**: GitHub Pages is free to use for public repositories, making it an affordable option for individuals and small businesses who don't want to pay for website hosting.
 
-- **Easy setup****: GitHub Pages makes it easy to get a website up and running quickly, with minimal configuration required. Users can choose from pre-made templates or build their own custom website using their preferred technology stack.
+- **Easy setup**: GitHub Pages makes it easy to get a website up and running quickly, with minimal configuration required. Users can choose from pre-made templates or build their own custom website using their preferred technology stack.
 
 - **Version control**: GitHub Pages is integrated with Git, which allows for version control and collaboration on website development. Multiple users can work on the same project and contribute changes via pull requests.
 
